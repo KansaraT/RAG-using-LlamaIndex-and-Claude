@@ -8,5 +8,5 @@ Dataset : consists of [GST acts](https://taxinformation.cbic.gov.in/)
 
 STEPS TO BE FOLLOWED: 
 
-Run create_embeddings.py file to create embeddings of your dataset. (like I am using GST_data)
+\item Run create_embeddings.py file to create embeddings of your dataset. (like I am using GST_data)
 
